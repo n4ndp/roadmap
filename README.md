@@ -1,3 +1,7 @@
+Claro, aquí tienes tu texto corregido, con buena estructura y el link agregado en una sección separada y limpia:
+
+---
+
 # ![Java](readme.png)
 
 Java es un **lenguaje de programación de alto nivel y orientado a objetos**, diseñado para ser **portátil, seguro y robusto**.
@@ -18,3 +22,11 @@ Java es un **lenguaje de programación de alto nivel y orientado a objetos**, di
 
 * **Amplia biblioteca estándar:**
   Proporciona APIs para redes, bases de datos, interfaces gráficas, entre otras funcionalidades.
+
+---
+
+* [HolasMundo - Youtube](https://youtu.be/b0NHh8RNWK4)
+
+* [Roadmap Java](https://roadmap.sh/java)
+
+---
