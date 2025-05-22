@@ -1,12 +1,8 @@
-Claro, aquí tienes tu texto corregido, con buena estructura y el link agregado en una sección separada y limpia:
-
----
-
-# ![Java](readme.png)
+![Java](readme.png)
 
 Java es un **lenguaje de programación de alto nivel y orientado a objetos**, diseñado para ser **portátil, seguro y robusto**.
 
-### Características principales:
+## **Características principales**:
 
 * **"Write Once, Run Anywhere" (WORA):**
   El código Java se compila a bytecode que se ejecuta en la Máquina Virtual de Java (JVM), permitiendo que el mismo programa corra en Windows, Linux, macOS o cualquier sistema con JVM.
@@ -23,10 +19,8 @@ Java es un **lenguaje de programación de alto nivel y orientado a objetos**, di
 * **Amplia biblioteca estándar:**
   Proporciona APIs para redes, bases de datos, interfaces gráficas, entre otras funcionalidades.
 
----
+## **Recursos**:
 
 * [HolasMundo - Youtube](https://youtu.be/b0NHh8RNWK4)
 
 * [Roadmap Java](https://roadmap.sh/java)
-
----
