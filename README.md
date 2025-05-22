@@ -21,6 +21,6 @@ Java es un **lenguaje de programación de alto nivel y orientado a objetos**, di
 
 ## **Recursos**:
 
-* [HolasMundo - Youtube](https://youtu.be/b0NHh8RNWK4)
+* [HolaMundo - Youtube](https://youtu.be/b0NHh8RNWK4)
 
 * [Roadmap Java](https://roadmap.sh/java)
