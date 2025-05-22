@@ -21,6 +21,8 @@ Java es un **lenguaje de programación de alto nivel y orientado a objetos**, di
 * **Amplia biblioteca estándar:**
   Proporciona APIs para redes, bases de datos, interfaces gráficas, entre otras funcionalidades.
 
+---
+
 ## **2. Hola Mundo**
 
 A continuación, un ejemplo básico que imprime “¡Hola Mundo!” en consola:
@@ -62,3 +64,5 @@ public class HolaMundo {
      ```
      ¡Hola Mundo!
      ```
+
+---
